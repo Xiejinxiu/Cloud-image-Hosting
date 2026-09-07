@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>协议 2</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="B4查看项目-项目主页" transform="translate(-375.000000, -912.000000)" stroke="#909CBF">
+            <g id="协议" transform="translate(376.000000, 913.000000)">
+                <rect id="矩形" stroke-linejoin="round" x="0" y="0" width="12" height="14" rx="1"></rect>
+                <polygon id="路径" stroke-linejoin="round" points="3 0 6.375 0 6.375 5.6 4.6875 4.2 3 5.6"></polygon>
+                <line x1="3" y1="8.4" x2="6.75" y2="8.4" id="路径"></line>
+                <line x1="3" y1="10.5" x2="9" y2="10.5" id="路径"></line>
+            </g>
+        </g>
+    </g>
+</svg>
