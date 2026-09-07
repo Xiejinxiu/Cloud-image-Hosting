@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="15px" viewBox="0 0 17 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>项目页-备注 2</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="B4查看项目-项目主页" transform="translate(-373.000000, -1079.000000)" stroke="#909CBF">
+            <g id="项目页-备注" transform="translate(374.000000, 1080.000000)">
+                <line x1="8.33333333" y1="6.5" x2="15" y2="6.5" id="路径"></line>
+                <line x1="8.33333333" y1="12.7758621" x2="15" y2="12.7758621" id="路径"></line>
+                <line x1="8.33333333" y1="0.224137931" x2="15" y2="0.224137931" id="路径"></line>
+                <path d="M5,6.5 L0,6.5 C0,6.5 0.690354167,6.5 1.66666667,6.5 M5,12.7758621 C2.5,11.8793103 4.16666667,6.5 1.66666667,6.5 M5,0.224137931 C2.5,1.12068966 4.16666667,6.5 1.66666667,6.5" id="形状"></path>
+            </g>
+        </g>
+    </g>
+</svg>
